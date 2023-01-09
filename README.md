@@ -1,4 +1,6 @@
 # Simple network that can learn XOR 
+##### Data Structure Assignment 1
+##### 通訊二110503504林巧翎
 
 This is assignment 1
 
